@@ -1,0 +1,15 @@
+# Python pip artifacts
+*.exe
+Lib/
+share/
+Scripts/
+__pycache__/
+*.pyc
+
+# Temporary files
+papers_full.json
+*.tmp
+
+# IDE
+.vscode/
+.idea/
