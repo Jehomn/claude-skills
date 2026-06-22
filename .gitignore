@@ -2,7 +2,6 @@
 *.exe
 Lib/
 share/
-Scripts/
 __pycache__/
 *.pyc
 
